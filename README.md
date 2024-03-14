@@ -2,6 +2,8 @@
 
 Для того, чтобы воспроизвести наше решение необходимо установить все библиотеки из файла requirements.txt.
 После установки библиотек, необходимо последовательно запускать нотбуки:
-data_prep.ipynb -> predict_start_cluster_3month.ipynb -> fit_predict_target.ipynb
+data_prep.ipynb -> line.ipynb -> predict_start_cluster_3month.ipynb -> fit_predict_target.ipynb
+
+К сожалению мы не успели добавить описание к line.ipynb
 
 Нотбук stacking.ipynb использовался только, для примера, что были использованы различные подходы к решению данной задачи.
